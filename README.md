@@ -1,5 +1,5 @@
 # Task_1_Linear_Regression
-## The Sparks Foundation (Data Science & Business Analyst Intership)
+## The Sparks Foundation (Data Science & Business Analyst Internship)
 This is the solution to the Task#1 of Linear regression algorithm implementation to predict scores of students based on their hours of study
 
 Data is taken from the following link:
